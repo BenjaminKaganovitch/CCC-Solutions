@@ -1,2 +1,3 @@
 # CCC-Solutions
-Solutions to the CCC (Canadian Computing Competition) from CEMC.
+
+Unofficial solutions to the [Canadian Computing Competition](https://cemc.uwaterloo.ca/contests/computing.html) from CEMC.
