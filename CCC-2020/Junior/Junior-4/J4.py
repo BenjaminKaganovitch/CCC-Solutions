@@ -4,7 +4,6 @@
 #
 # Strings
 
-
 # Input
 text = input()
 shift = input()
