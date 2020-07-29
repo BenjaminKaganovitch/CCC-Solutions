@@ -6,7 +6,7 @@ Unofficial solutions to the [Canadian Computing Competition](https://cemc.uwater
 
 | Year | Difficulty | Problems Completed | Total Score |
 | :---: | :-------: | :----------------- | :---------: |
-| 2020 | Junior     |                    | 00/75       |
+| 2020 | Junior     | J1, J2, J3, J4     | 60/75       |
 | 2020 | Senior     |                    | 00/75       |
 | 2019 | Junior     | J1, J2, J3, J4/S1  | 60/75       |
 | 2019 | Senior     | S1/J4, S2          | 30/75       |
